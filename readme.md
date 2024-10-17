@@ -8,7 +8,7 @@ tentang pembentukan dan Tata kerja Badan adhoc penyelenggara Pemilihan Gubernur 
 wakil Gubernur, Bupati dan Wakil Bupati, dan Walikota dan Wakil Walikota.
 
 ## FLOWCHART
-
+![flochart](Flowchart.png)
 
 ## PENJELASAN
 1. Program dimulai
