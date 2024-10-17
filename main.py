@@ -1,3 +1,5 @@
+print('SELAMAT DATANG DI SELEKSI KPPS PILKADA 2024')
+
 # INPUT DATA SELEKSI KPPS
 nama = input('Masukan Nama :')
 jenis_kelamin = input('Jenis kelamin :')
